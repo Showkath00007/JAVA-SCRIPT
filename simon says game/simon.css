@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.box{
+    height: 150px;
+    width: 150px;
+    border: 6px solid rgba(21, 14, 14, 0.992);
+    border-radius: 20%;
+    margin: 10px;
+}
+.box-cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.first{
+    background-color: pink;
+}
+.second{
+    background-color: rgb(193, 191, 118);
+}
+.third{
+    background-color: rgb(53, 173, 131);
+}
+.fourth{
+    background-color: rgb(170, 109, 216);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(138, 176, 207);
+}
